@@ -1,0 +1,12 @@
+{
+  "name": "@gochef/go-chef-design-system",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:rchicoria/go-chef-design-system.git",
+  "author": "Rui Chicória <rchicoria@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react-native-svg": "^6.3.1",
+    "react-native-svg-icon": "^0.8.0"
+  }
+}
